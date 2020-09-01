@@ -1,0 +1,41 @@
+
+
+
+.carousel-caption {
+    /* color: white;
+    background: #4aaaa5;
+    /* font-size: 30px;
+    padding: 10px;
+    height: 58px; */
+    /* position: relative;
+    top: -300px;
+    right: 0px;
+    float: left; */
+    margin: auto;
+display: block;
+background-color: rgba(0, 0, 0, 0.5);
+}
+.fa-arrow-circle-left{
+
+color: blueviolet;
+font-size: 80px;
+
+}
+
+/* .carousel-control-next-icon{
+    color: rgb(58, 226, 43);
+font-size: 1800px;
+background-color: red;
+
+} */
+
+.img {
+    /* float: left; */
+ 
+    
+    /* background-size: cover; */
+}
+
+.carousel-item{
+  /* max-height: 400px;
+} */
